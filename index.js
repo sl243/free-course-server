@@ -6,15 +6,15 @@ const port = process.env.PORT || 5000
 app.use(cors())
 
 const categories = require('./data/categories.json')
-// const courses = require('./data/courses.json')
+const courses = require('./data/courses.json')
 
 app.get('/', (req, res) => {
   res.send('Webcode API running')
 })
 
-// app.get('/course', (req, res) => {
-//     res.send(courses)
-// })
+app.get('/course', (req, res) => {
+    res.send(courses)
+})
 
 app.get('/course-categories', (req, res) => {
     res.send(categories)
