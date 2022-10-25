@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Introduction to Web Development"
+    },
+    {
+      "id": "02",
+      "name": "Fundamentals of Graphic Design"
+    },
+    {
+      "id": "03",
+      "name": "Introduction to Python Programming"
+    },
+    {
+      "id": "04",
+      "name": "Object Oriented Programming in Java"
+    },
+    {
+      "id": "05",
+      "name": "Computational Neuroscience"
+    },
+    {
+      "id": "06",
+      "name": "Introduction to MongoDB"
+    }
+  ]
