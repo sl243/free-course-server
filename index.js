@@ -20,11 +20,17 @@ app.get('/course-categories', (req, res) => {
     res.send(categories)
 })
 
-// app.get('/course/:id', (req, res) => {
-//     const id = req.params.id;
-//     const selectCourse = courses.find(course => course.course_id === id)
-//     res.send(selectCourse)
-// })
+app.get('/courseDetails/:id', (req, res) => {
+    const id = req.params.id;
+    const categoryCourse = courses.filter(course => course.category_id === id)
+    res.send(categoryCourse)
+})
+
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id;
+    const selectCourse = courses.find(course => course.course_id === id)
+    res.send(selectCourse)
+})
 
 app.listen(port, () => {
   console.log('Webcode free course server running', port)

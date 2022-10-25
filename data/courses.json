@@ -1,6 +1,7 @@
 [
     {
       "id": "01",
+      "category_id": "01",
       "course_id": "0282e0e58a5c404fbd15261f11c2ab6a",
       "name": "Introduction to Web Development",
       "duration": "1-6 Months",
@@ -10,6 +11,7 @@
     },
     {
       "id": "02",
+      "category_id": "02",
       "course_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "name": "Fundamentals of Graphic Design",
       "duration": "1-5 Months",
@@ -19,6 +21,7 @@
     },
     {
       "id": "03",
+      "category_id": "03",
       "course_id": "0282e0e58a5c404fbd15261f11c2ab6c",
       "name": "Introduction to Python Programming",
       "duration": "1-6 Months",
@@ -28,8 +31,9 @@
     },
     {
       "id": "04",
+      "category_id": "04",
       "course_id": "0282e0e58a5c404fbd15261f11c2ab6d",
-      "name": "Object Oriented Programming in Java",
+      "name": "Object Oriented Programming",
       "duration": "1-6 Months",
       "title": "This is an intermediate Java course.",
       "image_url": "https://i.ibb.co/dWYDp1m/oop-1.png",
@@ -37,6 +41,7 @@
     },
     {
       "id": "05",
+      "category_id": "05",
       "course_id": "0282e0e58a5c404fbd15261f11c2ab6e",
       "name": "Computational Neuroscience",
       "duration": "1-8 Months",
@@ -46,6 +51,7 @@
     },
     {
       "id": "06",
+      "category_id": "06",
       "course_id": "0282e0e58a5c404fbd15261f11c2ab6f",
       "name": "Introduction to MongoDB",
       "duration": "1-3 Months",
