@@ -1,0 +1,56 @@
+[
+    {
+      "id": "01",
+      "course_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "name": "Introduction to Web Development",
+      "duration": "1-6 Months",
+      "title": "This course is designed to start you on a path toward future studies in web development and design.",
+      "image_url": "https://i.ibb.co/85fz3Tj/Introductionto-Web-Development-22b149d49c.png",
+      "details": "The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills. By the end of this course you'll be able to describe the structure and functionality of the world wide web, create dynamic web pages using a combination of HTML, CSS, and JavaScript, apply essential programming language concepts when creating HTML forms, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you'll be able to develop a working model for creating your own personal or business websites in the future and be fully prepared to take the next step in a more advanced web development or design course or specialization."
+    },
+    {
+      "id": "02",
+      "course_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "name": "Fundamentals of Graphic Design",
+      "duration": "1-5 Months",
+      "title": "Graphic design are the elements that carry the majority of the content in both the digital world and the printed world.",
+      "image_url": "https://i.ibb.co/Wx7CvDK/8aedba3b.jpg",
+      "details": "This course will teach you the fundamental principles of graphic design: imagemaking, typography, composition, working with color and shape. foundational skills that are common in all areas of graphic design practice. I don't just want you to watch a video of someone talking about design, I want you to MAKE design! If you want to be a designer you have to be a maker and a communicator, so this course will offer you lots of opportunities to get your hands dirty with exercises and with more practical projects."
+    },
+    {
+      "id": "03",
+      "course_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+      "name": "Introduction to Python Programming",
+      "duration": "1-6 Months",
+      "title": "This course provides an introduction to programming and the Python language.",
+      "image_url": "https://i.ibb.co/6tvscQf/Python-Thumbnail-b6e99c74df.png",
+      "details": "Students are introduced to core programming concepts like data structures, conditionals, loops, variables, and functions.  This course includes an overview of the various tools available for writing and running Python, and gets students coding quickly.  It also provides hands-on coding exercises using commonly used data structures, writing custom functions, and reading and writing to files. This course may be more robust than some other introductory python courses, as it delves deeper into certain essential programming topics."
+    },
+    {
+      "id": "04",
+      "course_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+      "name": "Object Oriented Programming in Java",
+      "duration": "1-6 Months",
+      "title": "This is an intermediate Java course.",
+      "image_url": "https://i.ibb.co/dWYDp1m/oop-1.png",
+      "details": "We recommend this course to learners who have previous experience in software development or a background in computer science.  Our goal is that by the end of this course each and every one of you feels empowered to create a Java program that's more advanced than any you have created in the past and that is personally interesting to you. In achieving this goal you will also learn the fundamentals of Object Oriented Programming, how to leverage the power of existing libraries, how to build graphical user interfaces, and how to use some core algorithms for searching and sorting data. And this course is project-based, so we'll dive right into the project immediately!"
+    },
+    {
+      "id": "05",
+      "course_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+      "name": "Computational Neuroscience",
+      "duration": "1-8 Months",
+      "title": "This course provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.",
+      "image_url": "https://i.ibb.co/N3tPccW/gr-comput-neurosc-peq-1.jpg",
+      "details": "We will explore the computational principles governing various aspects of vision, sensory-motor control, learning, and memory. Specific topics that will be covered include representation of information by spiking neurons, processing of information in neural networks, and algorithms for adaptation and learning. We will make use of Matlab/Octave/Python demonstrations and exercises to gain a deeper understanding of concepts and methods introduced in the course. The course is primarily aimed at third- or fourth-year undergraduates and beginning graduate students, as well as professionals and distance learners interested in learning how the brain processes information."
+    },
+    {
+      "id": "06",
+      "course_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+      "name": "Introduction to MongoDB",
+      "duration": "1-3 Months",
+      "title": "This course will get you up and running with MongoDB quickly, and teach you how to leverage its power for data analytics.",
+      "image_url": "https://i.ibb.co/gPzbQZJ/Mongo-DB-Featured-image.jpg",
+      "details": "We'll start by mastering the fundamentals of MongoDB, including MongoDB's Document data model, importing data into a cluster, working with our CRUD API and Aggregation Framework. These topics will be taught through a demo application which will give you a great first encounter of how simple and practical it can be to build applications with MongoDB.In addition to these essential topics, you will also learn and work with useful MongoDB tools and services. You will work with Atlas, MongoDB's database as a service, MongoDB Compass, a schema visualization tool, as well as many other useful command-line utilities."
+    }
+  ]
