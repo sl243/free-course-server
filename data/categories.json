@@ -1,26 +1,32 @@
 [
     {
       "id": "01",
+      "image_url": "https://i.ibb.co/85fz3Tj/Introductionto-Web-Development-22b149d49c.png",
       "name": "Introduction to Web Development"
     },
     {
       "id": "02",
+      "image_url": "https://i.ibb.co/Wx7CvDK/8aedba3b.jpg",
       "name": "Fundamentals of Graphic Design"
     },
     {
       "id": "03",
+      "image_url": "https://i.ibb.co/6tvscQf/Python-Thumbnail-b6e99c74df.png",
       "name": "Introduction to Python Programming"
     },
     {
       "id": "04",
+      "image_url": "https://i.ibb.co/dWYDp1m/oop-1.png",
       "name": "Object Oriented Programming in Java"
     },
     {
       "id": "05",
+      "image_url": "https://i.ibb.co/N3tPccW/gr-comput-neurosc-peq-1.jpg",
       "name": "Computational Neuroscience"
     },
     {
       "id": "06",
+      "image_url": "https://i.ibb.co/gPzbQZJ/Mongo-DB-Featured-image.jpg",
       "name": "Introduction to MongoDB"
     }
   ]
